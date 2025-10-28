@@ -2,11 +2,11 @@
   "ballotSize": 6,
   "domain": "maraveli.org",
   "collectData": true,
-  "languages": ["fr", "kr"],
+  "languages": ["fr", "ht"],
   "module": "pairwise",
   "aggregation": "winrate",
   "alternatives": "https://docs.google.com/spreadsheets/d/1RT3eLZlzAFrFL7GUzWssS-bahGQ4scbN/edit?usp=drive_link&ouid=111130878549433074309&rtpof=true&sd=true",
   "title": "CoReSaR",
-  "translations": "https://docs.google.com/spreadsheets/d/1RT3eLZlzAFrFL7GUzWssS-bahGQ4scbN/edit?usp=drive_link&ouid=111130878549433074309&rtpof=true&sd=true",
-  "RECAPTCHA_KEY": "6Lf_KPMeAAAAAKa96e7sRWReZYgYYurmIQ2YlOUi"
+  "translations": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsY18eV8y8WpMd3JaJJDYe8dEQUdGFYEUq5qCWL8vk5pAHrf1LUoCdGyZEdGoId3S0e5_3s1Di-9DX/pub?output=tsv",
+  "RECAPTCHA_KEY": ""
 }
