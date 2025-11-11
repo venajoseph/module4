@@ -1,14 +1,11 @@
-# Opencracia
+# CORESAR
 
-Opencracia is an open-source framework that empowers communities, citizens and activists to create their own digital democracy platforms. 
+Cette étude porte sur les mécanismes de coordination dans les réseaux de santé des provinces haïtienns. 
 
-The software aims to give users the ability to find their own opinion as well as the collective opinion of the alternatives provided by the creators via a series of approvals and preferences. 
+Afin de mieux comprendre les stratégies gagnantes pour la coopération internationale, nous cherchons à identifier les priorités des acteurs locaux en termes de stratégies de coopération. 
 
-Opencracia incorporates lessons from our seven previous platforms that showed promising results in expanding the understanding of collective preferences. In addition, we included methods taken from social choice theory, the formal study of collective decision-making, into the framework. 
 
-The interface of Opencracia is built for accessibility, flexibility and a mobile-friendly experience.
-
-## Getting started
+## Questionnaire
 
 Set up Opencracia by cloning the template:
 ```
